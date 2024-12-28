@@ -508,7 +508,7 @@
         </div>
         <div id="challenge-all">
           <div id="cf-challenge-body-text" class="core-msg spacer">
-            office.com needs to review the security of your connection before
+            dailpad.com needs to review the security of your connection before
             proceeding.
           </div>
           <div
